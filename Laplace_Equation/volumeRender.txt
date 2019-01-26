@@ -1,0 +1,7 @@
+G:\Projekte\Cuda-Seminar\Laplace_Equation\Laplace_Equation\../Release/Laplace_Equation.exe Starting...
+
+Press '+' and '-' to change density (0.01 increments)
+      ']' and '[' to change brightness
+      ';' and ''' to modify transfer function offset
+      '.' and ',' to modify transfer function scale
+

@@ -1,0 +1,4 @@
+default 0.5 0.0 0.0 0.0
+
+Object 1.0000 ../scenes/4/sphere_1.obj
+Object 0.0000 ../scenes/4/sphere_2.obj
